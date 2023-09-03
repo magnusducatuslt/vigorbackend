@@ -5,7 +5,7 @@
         {
             "id": "string",
             "title": "Эмоциональное истощение",
-            "range": [
+            "ranges": [
                 {
                     "id": "string",
                     "title": "Низкий",
@@ -44,7 +44,7 @@
         {
             "id": "string",
             "title": "Деперсонализация",
-            "range": [
+            "ranges": [
                 {
                     "id": "string",
                     "title": "Низкий",
@@ -82,7 +82,7 @@
         {
             "id": "string",
             "title": "Редукция проф достижений",
-            "range": [
+            "ranges": [
                 {
                     "id": "string",
                     "title": "Низкий",
